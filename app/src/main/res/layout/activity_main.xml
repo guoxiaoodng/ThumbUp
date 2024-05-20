@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@mipmap/ic_bg">
 
-   <com.lzj.douyin.redheart.library.RedHeartLayout
+   <com.gxd.thumbs.redheart.library.LoveViewLayout
+       android:id="@+id/red_heart"
        android:layout_width="match_parent"
        android:layout_height="match_parent"
-       app:heart_width="100"
-       app:heart_height="100"
-       app:heart_image_resId="@drawable/ic_heart"/>
+       app:heart_width="40"
+       app:heart_height="40"
+       app:heart_enter_duration="1500"/>
 
 
 </LinearLayout>

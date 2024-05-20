@@ -1,4 +1,4 @@
-package com.lzj.douyin;
+package com.gxd.thumbs;
 
 import org.junit.Test;
 

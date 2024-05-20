@@ -1,4 +1,4 @@
-package com.lzj.douyin.redheart.library;
+package com.gxd.thumbs.redheart.library;
 
 import org.junit.Test;
 

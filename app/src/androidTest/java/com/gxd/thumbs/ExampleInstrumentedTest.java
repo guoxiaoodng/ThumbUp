@@ -1,4 +1,4 @@
-package com.lzj.douyin;
+package com.gxd.thumbs;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
